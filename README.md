@@ -22,7 +22,7 @@
         <b>c)</b> Set up web server (Nginx, and DB server (MySQL) on the cloud. <br> 
         <b>d)</b> Show that local client (browser on your computer) can access the app GUIs and the app runs on Azure or AWS as expected. 
       </td>
-      <td>6 March 2025</td>
+      <td>26 February 2026</td>
       <td><a href="pro1.pdf">Project1</a></td>
     </tr>
     <tr>
@@ -37,7 +37,7 @@
         <b>f)</b> Run your app with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app is accessible from given public IP and port 80.
       </td>
-      <td>10 April 2025<br></td>
+      <td>19 March 2026<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
@@ -52,7 +52,7 @@
           - Push the image file to the DockerHub and copy the JAR file to the cloud.<br>
         <b>c)</b> Show that your CI/CD pipeline works as expected.<br>
       </td>
-      <td>8 May 2025<br></td>
+      <td>17 April 2026<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
@@ -65,7 +65,7 @@
         <b>d)</b> Run your application on local Kubernetes cluster.<br>
         <b>e)</b> Show that your application runs as expected.<br>
       </td>
-      <td>22 May 2025<br></td>
+      <td>21 May 2026<br></td>
       <td><a href="pro4.pdf">Project4</a></td>
     </tr>
   </body>
