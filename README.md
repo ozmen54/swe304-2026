@@ -76,11 +76,6 @@
 * Groups are allowed 10 minutes to present their work.
 * Groups are called to present their work based on a random number announced in the class. 
 * One person can be a speaker or members can present stages separately in one session.
-* All group members are expected on the board while presenting. Absent members will be penalized according to excuse.
-* Group members help each other to hook their computer to the projector quickly.
-* Members (and groups) who are not contributed at all, and do not show up at presentation will get 0 (zero) grade.
-
-
-1. Cloud publishing: Running jar file on AWS Cloud
-2. Virtualization: Publishing application on AWS using Docker-Compose
-3. Continuous deployment: Deploy pipeline using Jenkins
+* All group members are expected on the board while presenting. 
+* Group members help each other to hook their computer to the projector quickly (at least 2 computers must be ready in presentations for possibility of failure).
+* Members (and groups) who are not contributed at all or do not show up at presentation will get 0 (zero) grade.
