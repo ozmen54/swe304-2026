@@ -19,7 +19,7 @@
       <td> 
         <b>a)</b> Show that you can build a Java app in jar format on your local computer using Maven. <br> 
         <b>b)</b> Upload that jar file using SFTP to Azure or AWS cloud (on Virtual Machine or EC2 instance). <br> 
-        <b>c)</b> Set up web server (Nginx, and DB server (MySQL) on the cloud. <br> 
+        <b>c)</b> Set up web server (Nginx, and DB server (MySQL or PostgreSQL) on the cloud. <br> 
         <b>d)</b> Show that local client (browser on your computer) can access the app GUIs and the app runs on Azure or AWS as expected. 
       </td>
       <td>26 Feb 2026</td>
