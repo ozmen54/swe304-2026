@@ -32,7 +32,7 @@
         <b>a)</b> Build the app jar file on your local computer using Gradle.<br> 
         <b>b)</b> Create a Docker container image of you app and push it to DockerHub.<br> 
         <b>c)</b> Create EC2 instance on AWS or VM on Azure.<br>
-        <b>d)</b> Pull the app and public db server images from Docker Hub.<br>
+        <b>d)</b> Pull your app and public db server images from Docker Hub. Transfer your docker-compose file to the cloud instance.<br>
         <b>e)</b> Install Nginx as proxy web server (No container for this process).<br>
         <b>f)</b> Mount db data file on local instance, run your app with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app is accessible from given public IP and port 80.
