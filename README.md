@@ -29,12 +29,12 @@
       <td>2</td>
       <td><b>Deployment with Docker-Compose.</b></td>
       <td>
-        <b>a)</b> Build the app. in jar on your local computer using Gradle or Maven.<br> 
-        <b>b)</b> Put your app into Docker container and push it to Docker Hub.<br> 
+        <b>a)</b> Build the app jar file on your local computer using Gradle.<br> 
+        <b>b)</b> Create a Docker container image of you app and push it to DockerHub.<br> 
         <b>c)</b> Create EC2 instance on AWS or VM on Azure.<br>
-        <b>d)</b> Pull the uploded app image and available latest DB (Postgres or MySql) image from Docker Hub.<br>
-        <b>e)</b> Install Nginx as proxy web server.<br>
-        <b>f)</b> Run your app with all components. <br>
+        <b>d)</b> Pull the app and public db server images from Docker Hub.<br>
+        <b>e)</b> Install Nginx as proxy web server (No container for this process).<br>
+        <b>f)</b> Mount db data file on local instance, run your app with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app is accessible from given public IP and port 80.
       </td>
       <td>19 Mar 2026<br></td>
