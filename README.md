@@ -15,7 +15,7 @@
   <body>
     <tr>
       <td>1</td>
-      <td><b>Publishing a web app on a cloud using FTP.</b></td>
+      <td><b>Publishing a web app on a cloud using simple file transfer.</b></td>
       <td> 
         <b>a)</b> Show that you can build a Java app in jar format on your local computer using Maven. <br> 
         <b>b)</b> Upload that jar file using SFTP to Azure or AWS cloud (on Virtual Machine or EC2 instance). <br> 
