@@ -61,7 +61,7 @@
       <td>
         <b>a)</b> Install Jenkins on your local computer.<br>
         <b>b)</b> Install Minikube K8s on your local computer. <br>      
-        <b>c)</b> Create a CI-CD pipeline as described in homework documentation. <br>
+        <b>c)</b> Create a CI-CD pipeline as described in project documentation. <br>
         <b>d)</b> Run your application on local Kubernetes cluster.<br>
         <b>e)</b> Show that your application runs as expected.<br>
       </td>
