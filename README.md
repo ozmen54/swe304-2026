@@ -1,7 +1,7 @@
 ### SAKARYA UNIVERSITY - SOFTWARE ENGINEERING DEPARTMENT
 # SWE 304 SOFTWARE DEVELOPMENT PROCESSES (DEVOPS)
 
-Project topics: <a href="https://github.com/ozmen54/swe212-2026/blob/main/SWE212_ProjectDescriptions_2026.pdf"></a>
+<a href="https://github.com/ozmen54/swe212-2026/blob/main/SWE212_ProjectDescriptions_2026.pdf">Project topics</a>
 
 ## Projects:
 
