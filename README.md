@@ -53,7 +53,7 @@
           - Push the image file to the DockerHub and copy the JAR file to the cloud.<br>
         <b>c)</b> Show that your CI/CD pipeline works as expected.<br>
       </td>
-      <td>17 Apr 2026<br></td>
+      <td>30 Apr 2026<br></td>
       <td><a href="pro3.pdf">Project3</a></td>
     </tr>
      <tr>
