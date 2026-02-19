@@ -38,7 +38,7 @@
         <b>f)</b> Mount db data file on local instance, run your app with all components. <br>
         <b>g)</b> Start Nginx web server and show that your app is accessible from given public IP and port 80.
       </td>
-      <td>19 Mar 2026<br></td>
+      <td>26 Mar 2026<br></td>
       <td><a href="pro2.pdf">Project2</a></td>
     </tr>
     <tr>
